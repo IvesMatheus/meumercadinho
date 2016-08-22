@@ -1,4 +1,8 @@
+link: https://cpanel.hostinger.com.br/hosting/index/aid/22575379
+email: impsa@icomp.ufam.edu.br
+senha: Eo30821300*
 domínio: meumercadinho.esy.es
 sennha: Khj0&#W^vb
-usuário do banco de dados: u651790734_mmU
-banco de dados: u651790734_mmDB
+usuário do BD: u651790734_mmU
+nome do BD: u651790734_mmDB
+senha do BD: mmDB3082*
