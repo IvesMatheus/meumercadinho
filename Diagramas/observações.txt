@@ -1,0 +1,4 @@
+Diagrama de caso de uso:
+	* Funcionalidade não estará disponível para todos os pacotes;
+	** Pedido só pode ser cancelado se ele ainda não foi liberado pelo mercado;
+	*** Mercado pode ser procurado através do código ou pelo mapa; 

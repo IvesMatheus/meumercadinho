@@ -1,0 +1,19 @@
+0 - pedido feito:
+	
+	Status inicial, logo quando o pedido é realizado pelo app;
+
+1 - pedido liberado:
+
+	Mercado checa pedido;
+
+2 - pedido entregue e pago:
+
+	DEFINIR QUEM ATUALIZA PARA ESSE ESTADO (MERCADO OU CLIENTE);
+
+3 - pedido não pago:
+
+	Mercado atualiza quando o pedido não é pego no horário marcado;
+
+4 - pedido cancelado:
+
+	Mercado cancela por algum motivo (Falta de produto no estoque...)
