@@ -1,4 +1,4 @@
 domínio: meumercadinho.esy.es
 sennha: Khj0&#W^vb
-usuário do banco de dados: u651790734_mmcd
-banco de dados: u651790734_mmcdd
+usuário do banco de dados: u651790734_mmU
+banco de dados: u651790734_mmDB
